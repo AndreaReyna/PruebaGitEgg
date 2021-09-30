@@ -7,7 +7,13 @@ public class ProyectoGitMesa {
         System.out.println("Modificacion desde nuevaRama ");
         System.out.println("Andrea ");
         System.out.println("Guada ");
+<<<<<<< HEAD
         System.out.println("Nueva modificacion desde main");
+=======
+        
+        
+>>>>>>> guada
+        System.out.println("Cambios desde mi rama!");
     }
     
 }
